@@ -6,7 +6,6 @@
 <li> O método Bublle Sort é muito conhecido se tratando de algoritmos </li>
 <li> Consciste na criação de um loop que coleta os índices de um array, e os coloca em ordem crescente</li>
 <li> Utiliza-se um loop 'for' para criação do laço </li>
-<br> 
 
 <b> <h3> Resultado esperado: </h3> <b>
 
