@@ -10,7 +10,7 @@
 <h3> Como começa: </h3>
 
 <div style="display:flex; justify-content: center;">
-<img src= "https://github.com/DanielProgrammer64/Bubble_sort/assets/103775773/5ea41949-3991-48a3-9d22-3940baa098b4" alt="imagem1" style="width:45%; >
+<img src= "https://github.com/DanielProgrammer64/Bubble_sort/assets/103775773/fcc2597d-656a-49fd-8234-6c14aeb2a4e7" alt="imagem1" style="width:45%; >
 
 </div>
 
@@ -20,7 +20,7 @@
 <b> <h3> Resultado esperado: </h3> <b>
 
 <div style="display:flex; justify-content: center;">
-    <img src="https://github.com/DanielProgrammer64/Bubble_sort/assets/103775773/4ec0971c-104b-417e-9efb-ca0bc5f56ed0" alt="imagem2" style="width:45%;">
+    <img src="https://github.com/DanielProgrammer64/Bubble_sort/assets/103775773/cce24064-d1d4-485d-994c-aba07d78921b" alt="imagem2" style="width:45%;">
 </div>
 
  
