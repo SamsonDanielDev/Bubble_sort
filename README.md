@@ -1,11 +1,11 @@
 
-<h1> Método Bubble Sort</h1>
+<h1> Método Bubble Sort </h1>
 
-<p> Este Código apresentado a seguir, se trata de um exemplo de Buble Sort! </p>
+<p> Este código apresentado a seguir, se trata de um exemplo de Buble Sort! </p>
 
-<li> O método Bublle Sort é muito conhecido se tratando de algoritmos </li>
-<li> Consciste na criação de um loop que coleta os índices de um array, e os coloca em ordem crescente</li>
-<li> Utiliza-se um loop 'for' para criação do laço </li>
+<li> O método Bublle Sort é muito conhecido se tratando de algoritmos.</li>
+<li> Consciste na criação de um loop que coleta os índices de um array, e os coloca em ordem crescente.</li>
+<li> Utiliza-se um loop 'for' para criação do laço.</li>
 
 <b> <h3> Resultado esperado: </h3> <b>
 
